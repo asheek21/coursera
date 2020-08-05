@@ -1,5 +1,5 @@
 body{
-	background-image: url('lily-banse--YHSwy6uqvk-unsplash.jpg');
+	background-image: url('https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80g.jpg');
 	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
@@ -9,6 +9,7 @@ h1{
 	text-align:center;
 	text-transform: uppercase;
 	 font-family: 'Noto Serif', serif;
+	 color: rgb(93, 222, 149);
 
 }
 h2{
@@ -33,6 +34,14 @@ p{
 
 	
 }
+#p1{
+	background-color:rgb(143, 178, 235);
+}
+#p2{
+	background-color:rgb(111, 214, 166);
+}
+
+
 .div{
 	border: 2px black solid;
 	background-color: rgb(232, 156, 67);
